@@ -1,3 +1,3 @@
 # git_test
 Hello odin!
-/How are you
+How are you
